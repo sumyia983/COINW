@@ -42,11 +42,17 @@ Mining without the Hassle: Instead of setting up your own mining rig, you can le
 Choose Your Coin: Depending on the venture project, you can mine various cryptocurrencies. Whether it’s Bitcoin, Ethereum, or an altcoin, CoinW offers flexibility.
 Risk Optimization: CoinW’s cloud mining projects are designed to minimize risks. You don’t need to worry about hardware failures or electricity costs.
 
+![images (13)](https://github.com/sumyia983/COINW/assets/158214770/50c5acd1-07d9-4021-a2a0-7d1acb37ed14)
+
+
 2: Staking Programs: Staking is another way to earn passive income in the crypto world. Here’s how CoinW’s staking programs work:
 Proof of Stake (PoS): Instead of mining, PoS coins allow you to validate transactions and secure the network by holding a certain amount of the coin in your wallet.
 Rewards for Participation: By staking your coins, you contribute to network security, and in return, you receive additional coins as rewards.
 CoinW’s Selection: CoinW carefully selects staking projects to ensure stability and security. You can stake your favorite coins and watch your holdings grow over time.
 Referral Program in coinw to  Grow Your Crypto Network
+
+![images (14)](https://github.com/sumyia983/COINW/assets/158214770/26f9bc8d-20ca-47e8-b81f-8e6118b1e2ab)
+
 
 CoinW’s referral program encourages community growth and rewards you for spreading the word. Here’s how it works:
 Invite Friends: Share your unique referral link with friends, family, or fellow crypto enthusiasts.
